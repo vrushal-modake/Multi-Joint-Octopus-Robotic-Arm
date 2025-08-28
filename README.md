@@ -1,1 +1,1 @@
-# Robotic-Systems-Mechanism-Design
+# Multi-Joint “Octopus” Robotic Arm
