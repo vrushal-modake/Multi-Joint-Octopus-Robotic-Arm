@@ -14,7 +14,26 @@ Design a robotic arm inspired by the flexibility and control of an octopus tenta
 - 3D-Printing
 - Arduino (hardware phase)
 
+
+## 📐 Concept Sketch
+
+<p align="center">
+  <img src="docs/concept_sketch.png" width="500" alt="Concept Sketch of Octopus Arm">
+</p>
+
+---
+
+## 🧪 Run the 2D Simulation
+
+```bash
+python main.py
+
+
 octopus-robotic-arm/
-├── images/
-│   └── concept_sketch.png
-├── README.md
+│
+├── main.py                # Entry point
+├── kinematics/            # Forward & inverse kinematics modules
+├── simulation/            # Animated 2D simulation
+├── hardware/              # Servo/Arduino setup notes
+├── docs/                  # Images, sketches
+
