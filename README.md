@@ -10,16 +10,6 @@ Design a robotic arm inspired by the flexibility and control of an octopus tenta
 - Servo control design for physical arm prototype
 
 ## 🛠️ Tech Stack
-- Python
-- Matplotlib (for simulation)
-- ROS (planned)
+- CAD Model
+- 3D-Printing
 - Arduino (hardware phase)
-- STL/CAD files (planned)
-
-## 📁 Project Structure
-```bash
-kinematics/     → Forward and inverse kinematics modules  
-simulation/     → Visual simulations and animations  
-hardware/       → Control boards, servo setup  
-docs/           → Research, sketches, diagrams  
-
