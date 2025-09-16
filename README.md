@@ -18,13 +18,6 @@ Design a robotic arm inspired by the flexibility and control of an octopus tenta
 - 3D-Printing
 - Arduino (hardware phase)
 
----
-
-## 📐 Concept Sketch
-
-<p align="center">
-  <img src="docs/concept_sketch.png" width="500" alt="Concept Sketch of Octopus Arm">
-</p>
 
 ---
 
