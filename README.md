@@ -18,10 +18,3 @@ Design a robotic arm inspired by the flexibility and control of an octopus tenta
 - 3D-Printing
 - Arduino 
 
-
----
-
-## 🧪 Run the 2D Simulation
-
-```bash
-python main.py
