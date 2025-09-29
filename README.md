@@ -16,7 +16,7 @@ Design a robotic arm inspired by the flexibility and control of an octopus tenta
 ## 🛠️ Tech Stack
 - CAD Model (SolidWorks)
 - 3D-Printing
-- Arduino (hardware phase)
+- Arduino 
 
 
 ---
